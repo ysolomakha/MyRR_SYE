@@ -1,0 +1,151 @@
+[33mcommit 76db51c92b07b1f3168baf237a4418a62d66ec64[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 16:22:07 2024 +0200
+
+    fix2 commit 3 - change headers levels in index.html
+
+[33mcommit 5539f64d53df70d690fbcfc9c97b47dfc24540cf[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 16:19:51 2024 +0200
+
+    fix2 commit 2 - move images in index.html
+
+[33mcommit 45967be075c67e0e80b3b3660864a25eaf30670f[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 16:17:36 2024 +0200
+
+    fix2 commit 1 - change h5.css
+
+[33mcommit 8840576cd0883fb7990140826987dfab41caa706[m
+Merge: 2ebe618 5556ad2
+Author: Yelyzaveta Solomakha <128074413+ysolomakha@users.noreply.github.com>
+Date:   Fri Mar 22 16:09:57 2024 +0200
+
+    Merge pull request #1 from ysolomakha/develop3
+    
+    Develop3
+
+[33mcommit 5556ad2d9ff5c728d417d635e32164d07aa82751[m[33m ([m[1;31morigin/develop3[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 16:01:21 2024 +0200
+
+    develop3 commit2 - add new information and change pics order in index.html
+
+[33mcommit 16dbac44f7668df2d8aad249bcac1130706b6752[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 15:55:47 2024 +0200
+
+    develop3 commit 1 - add h5.css
+
+[33mcommit 2ebe6180a7148d6793e00ef58c26dfff91429ba4[m[33m ([m[1;31morigin/develop2[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 15:45:46 2024 +0200
+
+    develop commit 3 - change index.html and add new pictures
+
+[33mcommit 5d316b47c58ad15f05e9f0d23cd65968a582eaef[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 15:40:47 2024 +0200
+
+    develop commit 2 - change h2.css and h3.css
+
+[33mcommit 4f3cd7ab64e590393a4a547887408c53c20c7f30[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Fri Mar 22 15:37:26 2024 +0200
+
+    develop commit 1 - add images2 and create h4.css to styles
+
+[33mcommit 80fb981c24a355c552dbac013ecdb3c71674ab6d[m[33m ([m[1;31morigin/styles2[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 17:58:29 2024 +0200
+
+    Modify index.html for styles2
+
+[33mcommit b84fe75d7425ccf1476eefaeee7aa54aaf67fb09[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 17:51:39 2024 +0200
+
+    add new styles
+
+[33mcommit 4af9fe81cadeaa9789a135bf487da38a759f2a24[m[33m ([m[1;31morigin/images2[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 16:24:13 2024 +0200
+
+    Update index.html for images2
+
+[33mcommit 996e59b5b17c755978c2a53eb45898a20ec453c2[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 16:21:20 2024 +0200
+
+    Add new images to folder images
+
+[33mcommit a6e6dddc1173b6a07df6839e665268128e65c271[m
+Merge: 11c7a15 ed8b7d0
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 16:00:22 2024 +0200
+
+    Merge images and styles to develop
+
+[33mcommit ed8b7d06c1235cf42629b8a09ed0008bcf4cb795[m[33m ([m[1;31morigin/styles[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 15:49:35 2024 +0200
+
+    Change index -> add styles
+
+[33mcommit e410319514b432827d3705b6629ca9332f45606d[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 15:44:55 2024 +0200
+
+    Add folder styles
+
+[33mcommit 11c7a15a9b659ab570796e9be8473d09853ff2d5[m[33m ([m[1;31morigin/images[m[33m)[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 15:36:32 2024 +0200
+
+    Change index -> add <img> tags
+
+[33mcommit d2b8b9972087bc54befb198e0456f379460e8b82[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 15:29:56 2024 +0200
+
+    add folder images
+
+[33mcommit d4ebb68fb479ec3960889b567afdf9e8f574d63e[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 15:22:42 2024 +0200
+
+    New branch develop with empty index.html
+
+[33mcommit 3792b21fe8598234d6eb38f9e61b86eb7c4af877[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Thu Mar 21 15:18:15 2024 +0200
+
+    remove old index.html
+
+[33mcommit b91c387c9ca73a0ef78f6003f25522edef300b4b[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Wed Mar 20 01:40:54 2024 +0200
+
+    Add html
+
+[33mcommit 83e07ca2eee0fbe9509a8e3d68ac5977ef75e1d1[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Wed Mar 20 01:40:12 2024 +0200
+
+    Add .gitignore
+
+[33mcommit 1452da0c0cce781132395aaf1844a7ffe1756d17[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Wed Mar 20 00:53:52 2024 +0200
+
+[33mcommit cb90b8ca0605e967fb7a5a8897ff68216d1d8a94[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Wed Mar 20 00:50:42 2024 +0200
+
+    Add full name to readme.txt
+
+[33mcommit 7739694362edea39a68d05859dbd057eec6757a9[m
+Author: ysolomakha <livett0903@outlook.com>
+Date:   Wed Mar 20 00:46:17 2024 +0200
+
+    Init commit with readme.txt
